@@ -1,5 +1,5 @@
 # A basic implementation of snake
-This repository contains a basic implementation of the famous snake game allowing me to discover the features of the Tkinter library. 
+This repository contains a basic implementation of the famous snake game to discover the features of the Tkinter library. 
 
 Features of the game:
 * Standard snake rules: the goal is to catch the red squares representing the bonus. Every time you touch a bonus your snake grows. It is forbidden to go backwards, to touch another part of the snake with its head, to go out of the window. Any of these actions will trigger the "Game over" screen. 
